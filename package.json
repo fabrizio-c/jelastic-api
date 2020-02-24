@@ -1,0 +1,38 @@
+{
+  "name": "@paper91/jelastic-api",
+  "version": "1.0.0",
+  "description": "handler for jelastic api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paper91/jelastic-api.git"
+  },
+  "keywords": [
+    "jelastic"
+  ],
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "urun": "0.0.8"
+  },
+  "files": [
+    ".gitignore",
+    "README.md",
+    "index.js",
+    "lib/"
+  ],
+  "author": "Fabrizio Carta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paper91/jelastic-api/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "homepage": "https://github.com/paper91/jelastic-api#readme"
+}
