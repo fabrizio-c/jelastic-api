@@ -1,6 +1,6 @@
 {
   "name": "@paper91/jelastic-api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "handler for jelastic api",
   "main": "index.js",
   "scripts": {
